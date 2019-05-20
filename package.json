@@ -190,7 +190,7 @@
     "@bootstrap-styled/documentation": "^2.0.0",
     "@rollup-umd/build": "^1.0.3",
     "@rollup-umd/deploy": "^1.1.1",
-    "@rollup-umd/documentation": "^2.0.2",
+    "@rollup-umd/documentation": "^2.0.5",
     "@rollup-umd/ncu": "^1.0.9",
     "@rollup-umd/test": "^1.0.5",
     "@semantic-release/changelog": "^3.0.2",
